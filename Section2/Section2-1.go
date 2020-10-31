@@ -25,4 +25,5 @@ func main() {
 	} else {
 		fmt.Printf("Eureka !!, the target was foud at index : %d", bsOccurrence(primes, target, minindex, maxindex))
 	}
+
 }
