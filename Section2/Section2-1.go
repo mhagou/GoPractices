@@ -41,4 +41,5 @@ func main() {
 		fmt.Printf("Eureka Ocuurence!!, the target was foud at index : %d \n", bsOccurrence(primes, target, minindex, maxindex))
 		fmt.Printf("Eureka Iteration!!, the target was foud at index : %d", bsItertion(primes, target, minindex, maxindex))
 	}
+
 }
